@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Chandrakant Dubey
-- 😊 My friends calls me Chandra
+- 😊 My friends calls me Mohit
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Java & Python
 - 📫 Connect me...
